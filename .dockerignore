@@ -1,0 +1,19 @@
+# Don't ship source-of-truth artifacts or build meta into the nginx image
+.git
+.gitignore
+.DS_Store
+._*
+
+# Playbook + research + build meta — useful in the repo, not on the site
+NICHE-BUILD-PLAYBOOK.md
+research-brief.md
+content.md
+variables.json
+
+# Master brand assets (only the resized public/brand/* ships)
+master-logo.*
+master-square.*
+
+# Docker build files shouldn't be served
+Dockerfile
+.dockerignore
