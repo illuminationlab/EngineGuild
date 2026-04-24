@@ -27,8 +27,9 @@
     "project_uuid": "jp056r379bau6ezrxnq29y97",
     "environment_uuid": "v13hslzcdi5talqu4ffu34bp",
     "server_uuid": "x8w80008wk0cskg04ogokg00",
-    "app_uuid": "augjqjo1jecyh8z6kpqd3mfv",
-    "first_deployment_uuid": "akp1pv25rnqlyt4xawb8u1eh"
+    "app_uuid": "tqk5skowf0840u7wb1g6985m",
+    "previous_app_uuid": "augjqjo1jecyh8z6kpqd3mfv (deleted 2026-04-24 — corrupted custom_nginx_configuration)",
+    "first_deployment_uuid": "m101m73zatsnw6f1r8hlizuo"
   },
   "notes": "Current client context: lawnmower, weed whacker, snowmobile engine repair. Shop-owner voice — speaks TO the mechanic."
 }
